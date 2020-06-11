@@ -31,3 +31,6 @@ is to try to find how Starbucks customers get offer.
 
 Github Link:  https://github.com/EdamMan/Capstone-Project-Data-Scientist
 
+Medium link : https://medium.com/@edam/starbucks-capstone-challenge-b4319c125e59
+
+
